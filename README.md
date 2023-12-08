@@ -21,7 +21,7 @@ function App() {
     </div>
   );
 }
-
+```
 # JavaScript Basics
 
 This repository contains a set of basic JavaScript examples covering fundamental concepts such as JSON manipulation, array operations, conditional statements, loops, functions, and object handling.
@@ -38,6 +38,7 @@ const student = {
 }
 const studentJSON = JSON.stringify(student);
 const studentObj = JSON.parse(studentJSON);
+```
 
 ## Getting Started
 
@@ -57,10 +58,5 @@ To run this application locally, follow these steps:
 
 ## Credits
 
-- This project was created by [Your Name].
+- This project was created by [Arnisha Akter].
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as needed. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
-
-Enjoy exploring information about different countries with this React app!
